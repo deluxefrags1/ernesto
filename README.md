@@ -50,3 +50,4 @@ chisz
 quack
 new
 airdrops
+fullmoney
